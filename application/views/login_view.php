@@ -17,16 +17,4 @@
 
         <input name="submit" type="submit" class="btn btn-primary" value="Войти">
     </form>
-
-<!--
-    <form method="POST">
-
-        Логин <input name="login" type="text"><br>
-
-        Пароль <input name="password" type="password"><br>
-
-        <input name="submit" type="submit" value="authorization">
-
-    </form>
--->
 </div>
